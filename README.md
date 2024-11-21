@@ -8,3 +8,9 @@ The paper uses the following code:
 - [DCF and SR simulator](https://github.com/ml4wifi-devs/mapc-dcf),
 - [C-SR simulator](https://github.com/ml4wifi-devs/mapc-sim),
 - [H-MAB framework](https://github.com/ml4wifi-devs/mapc-mab).
+
+Other relevant links:
+
+- [simulation scenarios](https://github.com/ml4wifi-devs/mapc-optimal-research), #TODO fix direct link
+- [raw simulation results](), #TODO add link
+- [openwifi](https://github.com/open-sdr/openwifi) (used in the experimental testbed).
