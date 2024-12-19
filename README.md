@@ -2,10 +2,10 @@
 
 This is the homepage for the paper "Coordinated Spatial Reuse Scheduling with Machine Learning in IEEE 802.11 MAPC Networks". 
 
-The paper uses the following code:
+The paper presents the results obtained using the following code:
 
-- [upper bound model](https://github.com/ml4wifi-devs/mapc-optimal) - a theoretical model of C-SR, which finds the best possible transmission schedule using mixed-integer linear programming,
-- [DCF and SR simulator](https://github.com/ml4wifi-devs/mapc-dcf) - a discrete event simulator (built using [SimPy](https://simpy.readthedocs.io/en/latest/)), in which devices use either legacy IEEE 802.11 channel access (DCF) or 802.11ax's spatial reuse (SR),
+- [upper bound C-SR model](https://github.com/ml4wifi-devs/mapc-optimal) - a theoretical model of C-SR, which finds the best possible transmission schedule using mixed-integer linear programming,
+- [DCF and SR simulator](https://github.com/ml4wifi-devs/mapc-dcf) - a discrete event simulator (built using [SimPy](https://simpy.readthedocs.io/en/latest/)), in which devices use either legacy IEEE 802.11 channel access (DCF) or 802.11ax spatial reuse (SR),
 - [C-SR simulator](https://github.com/ml4wifi-devs/mapc-sim) - a Monte Carlo simulator of consecutive C-SR transmission opportunities,
 - [H-MAB framework](https://github.com/ml4wifi-devs/mapc-mab) - our hierarchical multi-armed bandit framework to determine C-SR scheduling,
 - [scripts and scenarios](https://github.com/ml4wifi-devs/mapc-optimal-research) - a set of simulation scenarios used to validate IEEE 802.11 performance under the various channel access schemes and scripts to run these simulations.
@@ -13,9 +13,9 @@ The paper uses the following code:
 Other relevant links:
 
 - simulation scenarios - [implementations](https://github.com/ml4wifi-devs/mapc-optimal-research/blob/main/mapc_research/envs/scenario_impl.py) and [definitions](https://github.com/ml4wifi-devs/mapc-optimal-research/blob/main/mapc_research/envs/test_scenarios.py),
-- [other results and figures](https://github.com/ml4wifi-devs/csr/tree/main/figures),
+- [figures](https://github.com/ml4wifi-devs/csr/tree/main/figures) - figures illustrating the obtained results,
 - [raw simulation results](), #TODO add link
-- [openwifi](https://github.com/open-sdr/openwifi) (used in the experimental testbed).
+- [openwifi](https://github.com/open-sdr/openwifi) - openwifi repository used in the experimental testbed.
 
 ## How to reference this repository?
 
