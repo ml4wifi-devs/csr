@@ -13,7 +13,7 @@ The paper presents results obtained using the following code:
 Other relevant links:
 
 - [figures](https://github.com/ml4wifi-devs/csr/tree/main/figures) - figures illustrating the obtained results,
-- [raw simulation results](), #TODO add link
+- [raw simulation results]() - associated Zenodo repository,
 - [openwifi](https://github.com/open-sdr/openwifi) - openwifi repository used in the experimental testbed.
 
 ## How to reference this repository?
@@ -21,7 +21,8 @@ Other relevant links:
 ```
 @article{wojnar2025coordinated,
   author={Wojnar, Maksymilian and Ciężobka, Wojciech and Tomaszewski, Artur and Chołda, Piotr and Rusek, Krzysztof and Kosek-Szott, Katarzyna and Haxhibeqiri, Jetmir and Hoebeke, Jeroen and Bellalta, Boris and Zubow, Anatolij and Dressler, Falko and Szott, Szymon},
-  title={{Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks}}, 
+  title={{Coordinated Spatial Reuse Scheduling With Machine Learning in IEEE 802.11 MAPC Networks}},
+  journal={IEEE Journal on Selected Areas in Communications}, 
   year={2025},
 }
 ```
