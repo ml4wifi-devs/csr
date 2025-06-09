@@ -1,5 +1,7 @@
 # Coordinated Spatial Reuse Scheduling with Machine Learning in IEEE 802.11 MAPC Networks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15622775.svg)](https://doi.org/10.5281/zenodo.15622775)
+
 This is the homepage for the paper "Coordinated Spatial Reuse Scheduling with Machine Learning in IEEE 802.11 MAPC Networks". 
 
 The paper presents results obtained using the following code:
@@ -13,7 +15,7 @@ The paper presents results obtained using the following code:
 Other relevant links:
 
 - [figures](https://github.com/ml4wifi-devs/csr/tree/main/figures) - figures illustrating the obtained results,
-- [raw simulation results]() - associated Zenodo repository,
+- [raw simulation results](https://zenodo.org/records/15622775) - associated Zenodo repository,
 - [openwifi](https://github.com/open-sdr/openwifi) - openwifi repository used in the experimental testbed.
 
 ## How to reference this repository?
